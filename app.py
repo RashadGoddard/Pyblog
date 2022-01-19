@@ -20,7 +20,7 @@ ckeditor = CKEditor(app)
 # Add Database
 # Old SQLite DB
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://fvmdxyjigwbmiu:d31d36c7613e08f7ad37a6e40007189d7f2f44fbc99234b339994780a122d870@ec2-3-214-190-189.compute-1.amazonaws.com:5432/d17b5scj97ckqe'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://aknyecsabqurls:5545f56c1b19799b962efefbe4dd0696786cb62de6a701f66cbe15b02cad1192@ec2-44-194-101-60.compute-1.amazonaws.com:5432/d5l2rbsdpbeibf'
 # New MySQL DB
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://username:password@localhost/db_name'
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:password123@localhost/our_users'
